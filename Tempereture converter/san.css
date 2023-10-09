@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.converter {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+label, input, button, span {
+    margin: 5px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
